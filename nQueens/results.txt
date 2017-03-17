@@ -1,0 +1,399 @@
+4
+9
+10
+0.001001119613647461
+
+5
+6
+11
+0.0
+
+6
+32
+39
+0.0010020732879638672
+
+7
+10
+22
+0.0
+
+8
+114
+124
+0.004001140594482422
+
+9
+37
+56
+0.0020012855529785156
+
+10
+99
+121
+0.004004240036010742
+
+11
+53
+83
+0.0030007362365722656
+
+12
+249
+284
+0.014009714126586914
+
+13
+100
+144
+0.006004810333251953
+
+14
+1904
+1948
+0.09006381034851074
+
+15
+1373
+1428
+0.0720512866973877
+
+16
+10047
+10106
+0.6244425773620605
+
+17
+5375
+5449
+0.3302345275878906
+
+18
+41272
+41350
+2.4617512226104736
+
+19
+2546
+2642
+0.17612481117248535
+
+20
+199636
+199733
+12.962195873260498
+
+21
+8440
+8558
+0.569403886795044
+
+22
+1736276
+1736403
+120.77117919921875
+
+23
+25107
+25250
+1.841306209564209
+
+24
+409048
+409207
+30.796847343444824
+
+25
+48434
+48610
+3.873748779296875
+
+26
+396428
+396612
+31.78654909133911
+
+27
+454072
+454276
+38.36121392250061
+
+28
+3005957
+3006170
+263.47441935539246
+
+29
+1531002
+1531235
+138.11597967147827
+
+30
+
+Process finished with exit code 1
+Random
+
+4
+Goal tests:10
+Nodes Created:11
+Time:0.0019979476928710938
+
+5
+Goal tests:6
+Nodes Created:11
+Time:0.002001047134399414
+
+6
+Goal tests:34
+Nodes Created:40
+Time:0.005003452301025391
+
+7
+Goal tests:24
+Nodes Created:35
+Time:0.006005525588989258
+
+8
+Goal tests:76
+Nodes Created:89
+Time:0.01801276206970215
+
+9
+Goal tests:22
+Nodes Created:40
+Time:0.010005950927734375
+
+10
+Goal tests:139
+Nodes Created:162
+Time:0.03002023696899414
+
+11
+Goal tests:16
+Nodes Created:52
+Time:0.007008075714111328
+
+12
+Goal tests:380
+Nodes Created:416
+Time:0.059040069580078125
+
+13
+Goal tests:1105
+Nodes Created:1148
+Time:0.23616766929626465
+
+14
+Goal tests:876
+Nodes Created:928
+Time:0.18213534355163574
+
+15
+Goal tests:65
+Nodes Created:126
+Time:0.022015810012817383
+
+16
+Goal tests:332
+Nodes Created:404
+Time:0.14910554885864258
+
+17
+Goal tests:808
+Nodes Created:884
+Time:0.16763973236083984
+
+18
+Goal tests:1984
+Nodes Created:2068
+Time:0.49034857749938965
+
+19
+Goal tests:291
+Nodes Created:393
+Time:0.07104349136352539
+
+20
+Goal tests:314
+Nodes Created:428
+Time:0.07808423042297363
+
+21
+Goal tests:84
+Nodes Created:211
+Time:0.042029619216918945
+
+22
+Goal tests:38
+Nodes Created:183
+Time:0.05101490020751953
+
+23
+Goal tests:33
+Nodes Created:190
+Time:0.0600438117980957
+
+24
+Goal tests:1128
+Nodes Created:1287
+Time:0.3061943054199219
+
+25
+Goal tests:1476
+Nodes Created:1652
+Time:0.3572821617126465
+
+26
+Goal tests:808
+Nodes Created:1009
+Time:0.23717141151428223
+
+27
+Goal tests:55
+Nodes Created:274
+Time:0.08204412460327148
+
+28
+Goal tests:481
+Nodes Created:720
+Time:0.22014522552490234
+
+29
+Goal tests:221
+Nodes Created:462
+Time:0.15410423278808594
+-----------------------------------------
+4
+Goal tests:5
+Nodes Created:7
+Time:0.0
+
+5
+Goal tests:6
+Nodes Created:11
+Time:0.0009996891021728516
+
+6
+Goal tests:10
+Nodes Created:16
+Time:0.0010004043579101562
+
+7
+Goal tests:8
+Nodes Created:17
+Time:0.002000570297241211
+
+8
+Goal tests:28
+Nodes Created:39
+Time:0.0030019283294677734
+
+9
+Goal tests:34
+Nodes Created:49
+Time:0.005004167556762695
+
+10
+Goal tests:25
+Nodes Created:46
+Time:0.0040018558502197266
+
+11
+Goal tests:13
+Nodes Created:43
+Time:0.0050048828125
+
+12
+Goal tests:226
+Nodes Created:257
+Time:0.026017189025878906
+
+13
+Goal tests:264
+Nodes Created:303
+Time:0.03502535820007324
+
+14
+Goal tests:66
+Nodes Created:110
+Time:0.02100968360900879
+
+15
+Goal tests:35
+Nodes Created:88
+Time:0.018012046813964844
+
+16
+Goal tests:129
+Nodes Created:189
+Time:0.028020143508911133
+
+17
+Goal tests:45
+Nodes Created:115
+Time:0.019013643264770508
+
+18
+Goal tests:125
+Nodes Created:200
+Time:0.2111506462097168
+
+19
+Goal tests:57
+Nodes Created:150
+Time:0.06904983520507812
+
+20
+Goal tests:33
+Nodes Created:131
+Time:0.0450594425201416
+
+21
+Goal tests:116
+Nodes Created:226
+Time:0.04300832748413086
+
+22
+Goal tests:24
+Nodes Created:148
+Time:0.03404688835144043
+
+23
+Goal tests:65
+Nodes Created:198
+Time:0.05404353141784668
+
+24
+Goal tests:29
+Nodes Created:172
+Time:0.09806442260742188
+
+25
+Goal tests:35
+Nodes Created:189
+Time:0.09906983375549316
+
+26
+Goal tests:111
+Nodes Created:282
+Time:0.1831364631652832
+
+27
+Goal tests:146
+Nodes Created:331
+Time:0.10706496238708496
+
+28
+Goal tests:114
+Nodes Created:311
+Time:0.1250898838043213
+
+29
+Goal tests:52
+Nodes Created:268
+Time:0.1230928897857666
+
+
+Process finished with exit code 0
+
+
